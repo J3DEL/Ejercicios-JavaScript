@@ -19,7 +19,7 @@ for(let i=1; i<= largo; i++){
 
     j=j-1;
     digitoj=numLet.substring(j, numLet.length);
-    nuevoNumero=nuevoNumero + digitoj;
+    varnuevoNumero=nuevoNumero + digitoj;
 
 
 }

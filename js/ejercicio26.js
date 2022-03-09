@@ -1,4 +1,4 @@
-let num1, num2, num3=Number;
+let num1, num2, num3;
 
 alert("Ejercicio 26 - Numero intermedio");
 
